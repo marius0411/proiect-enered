@@ -31,8 +31,8 @@ public class Executie {
     telefon.setPretProdus(200);
     telefon.calcularePretDupaDiscount(25);
 
-
     telefon.afisareCosCumparaturi(produseMagazin);
+
 */
     Client mircea = new Client();
     Client x = new Client();
